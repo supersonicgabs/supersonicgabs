@@ -13,10 +13,16 @@ My name is Gabriel Fonseca and I'm a Front End Developer/Engineer. I'm from 🇧
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=Gatsby%205&logoColor=white&color=663399)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB%205&logoColor=white&color=47A248)
 
-## 	📈 Github Stats
+<!-- ## 	📈 Github Stats
 ![Gabs's github stats](https://github-readme-stats.vercel.app/api?username=supersonicgabs&count_private=true&show_icons=true&theme=dracula)
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/github-readme-stats/?username=supersonicgabs&count_private=true&theme=dracula" /> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supersonicgabs&theme=dracula" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supersonicgabs&theme=dracula" /> --> 
+
+## 	🔍 Links
+Some usefull links to find me on the web 😄
+- [💻 Portfolio](https://gabrielfonseca.dev.br/)
+- [💼 LinkedIn](https://gabrielfonseca.dev.br/)
+- [🗂️ Indeed](https://www.linkedin.com/in/gabriel-fonseca-coutinho/)
 
 
 <!--
