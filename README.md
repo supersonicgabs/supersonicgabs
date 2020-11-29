@@ -20,9 +20,9 @@ My name is Gabriel Fonseca and I'm a Front End Developer/Engineer. I'm from 🇧
 
 ## 	🔍 Links
 Some usefull links to find me on the web 😄
-- [💻 Portfolio](https://gabrielfonseca.dev.br/)
-- [💼 LinkedIn](https://gabrielfonseca.dev.br/)
-- [🗂️ Indeed](https://www.linkedin.com/in/gabriel-fonseca-coutinho/)
+- [💻  Portfolio](https://gabrielfonseca.dev.br/)
+- [💼  LinkedIn](https://gabrielfonseca.dev.br/)
+- [🗂️  Indeed](https://www.linkedin.com/in/gabriel-fonseca-coutinho/)
 
 
 <!--
