@@ -1,11 +1,18 @@
-### Hi there 👋
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Gabriel Fonseca and I'm a Front End Developer/Engineer. I'm from 🇧🇷 Brazil, living in 🇬🇧 London and currently working for E2X.
+
+## 🔧 Technologies and tools
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual%20Code-informational?style=flat&logo=Visual&20Studio%20Code&logoColor=white&color=2bbc8a)
 
 <!--
 **supersonicgabs/supersonicgabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🇬🇧 Currently living
+- 👨🏻‍💻 Front End Developer/Engineer
+- 🔭 Currently working on E2X
+- ✌🏻 Beatles fan
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
