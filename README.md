@@ -14,7 +14,7 @@ My name is Gabriel Fonseca and I'm a Front End Developer/Engineer. I'm from 🇧
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB%205&logoColor=white&color=47A248)
 
 ## 	📈 Github Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=supersonicgabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=supersonicgabs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
