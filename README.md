@@ -17,6 +17,8 @@ Programming since I was 15 years old, I started with the front-end basics (table
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=Gatsby&logoColor=white&color=663399)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47A248)
 
+## ✍️ Blog & Writing
+Apart from coding, I also maintain a blog - you can find my articles at [Medium](https://supersonicgabs.medium.com/).
 <!-- ## 	📈 Github Stats
 ![Gabs's github stats](https://github-readme-stats.vercel.app/api?username=supersonicgabs&count_private=true&show_icons=true&theme=dracula)
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/github-readme-stats/?username=supersonicgabs&count_private=true&theme=dracula" /> -->
